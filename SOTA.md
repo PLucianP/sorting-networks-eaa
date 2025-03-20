@@ -146,7 +146,7 @@ Recent research has focused on finding optimal sorting networks for specific sma
 
 For example, the smallest known sorting network for n = 13 was found by Hugues Juillé in 1995 "by simulating an evolutionary process of genetic breeding," and the minimum depth sorting networks for n = 9 and n = 11 were found by Loren Schwiebert in 2001 "using genetic methods."
 
-In 2014, Codish et al. proved that 25 comparators is optimal when sorting nine inputs, and 29 comparators is optimal for ten inputs. These results were achieved using sophisticated SAT solving techniques.
+In 2014, Codish et al. proved that 25 comparators is optimal when sorting 9 inputs, and 29 comparators is optimal for 10 inputs. These results were achieved using sophisticated SAT solving techniques.
 
 ## Applications
 
